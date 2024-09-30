@@ -55,7 +55,7 @@ button:hover {
     margin-bottom: 20px;
 }
 
-.length, .vol, .mass {
+.length, .vol, .mass, .grams {
     background-color: white;
     color: #5A537B;
     border-radius: 10px;
